@@ -1,0 +1,16 @@
+[
+    {
+        "album": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh",
+        "rating": 6.5,
+        "recommended by": "Victor",
+        "best songs": ["Prison Song", "Science"],
+        "comment": "Paar goeie maar af en toe te veel"
+    },
+    {
+        "album": "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP",
+        "rating": 6.5,
+        "recommended by": "Kasper",
+        "best songs": ["Diesel Power", "Firestarter"],
+        "comment": "Leuke nummers maar vocals zijn wat minder"
+    }
+]

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ratings - {{ album['name'] }}</title>
+        <link rel="icon" href="{{ album['image'] }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    </head>
+    <body>
+        <h1><a href="{{ album['link'] }}" target="_blank">{{ album['name'] }}</a></h1>
+        <h2>
+            {% for i in range(0, artists_len) %}
+                <a href="{{ album['artists'][i]['link'] }}" target="_blank">{{ album['artists'][i]['name'] }}</a>
+                {% if i < artists_len - 1 %}
+                    &
+                {% endif %}
+            {% endfor %}
+        </h2>
+        <div class="content">
+            <a href="{{ album['link'] }}" target="_blank"><img src="{{ album['image'] }}" class="album-image"/></a>
+
+            Recommended by: {{ album['recommended by'] }}<br />
+            Rating: {{ album['rating'] }} / 10<br />
+            Best Songs: <ul>
+            {% for i in range(0, songs_len) %}
+                <li>{{ album['best songs'][i] }}</li>
+            {% endfor %}
+
+            Comment: <br />
+            {{ album['comment'] }}
+            </ul>
+        </div>
+    </body>
+</html>

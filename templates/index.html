@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Album Ratings</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"
+    </head>
+    <body>
+        <h1>Album Ratings</h1>
+        <ul>
+            {% for i in range(0, albums_len) %}
+                <a href="/album/{{ i }}"><img src="{{ albums[i]['image'] }}" /></a>
+            {% endfor %}
+        </ul>
+    </body>
+</html>

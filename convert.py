@@ -44,6 +44,23 @@ def main():
             datum["comment"] = input_datum["comment"]
 
             data.append(datum)
+        elif "playlist" in input_datum:
+            link = "https://api.spotify.com/v1/playlists/" + input_datum["playlist"].split("/")[-1].split("?")[0]
+            result = json.loads(requests.get(link, headers=headers).text)
+
+            datum = {
+                "name": result["name"],
+                "image": result["images"][0]["url"],
+                "link": result["external_urls"]["spotify"]
+            }
+
+            datum["artists"] = input_datum["artists"]
+            datum["rating"] = input_datum["rating"]
+            datum["recommended by"] = input_datum["recommended by"]
+            datum["best songs"] = input_datum["best songs"]
+            datum["comment"] = input_datum["comment"]
+
+            data.append(datum) 
 
     with open("data/data.json", "w") as data_file:
         data_file.write(json.dumps(data, indent=2))

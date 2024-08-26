@@ -18,16 +18,17 @@
         <div class="content">
             <a href="{{ album['link'] }}" target="_blank"><img src="{{ album['image'] }}" class="album-image"/></a>
 
-            Recommended by: {{ album['recommended by'] }}<br />
-            Rating: {{ album['rating'] }} / 10<br />
-            Best Songs: <ul>
+            <b>Recommended by</b> {{ album['recommended by'] }}<br />
+            <b>Rating</b> {{ album['rating'] }} / 10<br />
+            <b>Best Songs</b>
+            <ul>
             {% for i in range(0, songs_len) %}
                 <li>{{ album['best songs'][i] }}</li>
             {% endfor %}
-
-            Comment: <br />
-            {{ album['comment'] }}
             </ul>
+
+            <b>Comment</b> <br />
+            {{ album['comment'] }}
         </div>
     </body>
 </html>

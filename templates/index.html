@@ -8,7 +8,7 @@
         <h1>Album Ratings</h1>
         <ul>
             {% for i in range(0, albums_len) %}
-                <a href="/album/{{ i }}"><img src="{{ albums[i]['image'] }}" /></a>
+                <a href="/album/{{ i }}"><img src="{{ albums[i]['image'] }}" class="cover-image"/></a>
             {% endfor %}
         </ul>
     </body>

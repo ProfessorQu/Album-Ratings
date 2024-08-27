@@ -1,0 +1,95 @@
+from yattag import Doc, indent
+import json
+
+
+def create_index(albums):
+    doc, tag, text = Doc().tagtext()
+
+    doc.asis("<!DOCTYPE html>")
+    with tag("html"):
+        with tag("head"):
+            doc.line("title", "Album Ratings")
+            doc.stag("link", rel="stylesheet", href="static/style.css")
+
+        with tag("body"):
+            with tag("h1"):
+                text("Album Ratings")
+
+            for album in albums:
+                with tag("a", href=f"albums/{album['name']}.html"):
+                    doc.stag("img", src=album['image'],
+                             klass="cover-image")
+
+    index_content = indent(doc.getvalue())
+
+    with open("index.html", "w") as index_file:
+        index_file.write(index_content)
+
+
+def create_album(album):
+    doc, tag, text = Doc().tagtext()
+
+    doc.asis("<!DOCTYPE html>")
+    with tag("html"):
+        with tag("head"):
+            doc.line("title", f"Ratings - {album['name']}")
+            doc.stag("link", rel="icon", href=album['image'])
+            doc.stag("link", rel="stylesheet", href="../static/style.css")
+
+        with tag("body"):
+            with tag("h1"):
+                with tag("a", href=album['link'], target="_blank"):
+                    text(album['name'])
+
+            with tag("h2"):
+                for i, artist in enumerate(album['artists']):
+                    with tag("a", href=artist['link'], target="_blank"):
+                        text(artist['name'])
+
+                    if i < len(album['artists']) - 1:
+                        text(" & ")
+
+            with tag("div", klass="content"):
+                with tag("a", href=album['link'], target="_blank"):
+                    doc.stag("img", src=album['image'], klass="album-image")
+
+                with tag("b"):
+                    text("Recommended by ")
+                text(album['recommended by'])
+
+                doc.stag("br")
+                with tag("b"):
+                    text("Rating ")
+                text(f"{album['rating']} / 10")
+
+                doc.stag("br")
+                with tag("b"):
+                    text("Best Songs ")
+                with tag("ul"):
+                    for song in album['best songs']:
+                        with tag("li"):
+                            text(song)
+
+                doc.stag("br")
+                with tag("b"):
+                    text("Comment ")
+                text(album['comment'])
+
+    album_content = indent(doc.getvalue())
+
+    with open(f"albums/{album['name']}.html", "w") as album_file:
+        album_file.write(album_content)
+
+
+def create_albums(albums):
+    for album in albums:
+        create_album(album)
+
+
+if __name__ == "__main__":
+    albums = []
+    with open("data/data.json") as data_file:
+        albums = json.load(data_file)
+
+    create_index(albums)
+    create_albums(albums)

@@ -7,57 +7,102 @@ def get_token():
         return token_file.read()
 
 
-def get_album_datum(input_datum, headers=None):
+def get_best_songs(headers=None):
+    link = "https://api.spotify.com/v1/playlists/3xkh0VpL5iRLws4P04xmk1"
+
+    result = json.loads(requests.get(link, headers=headers).text)
+    songs = []
+
+    for song in result['tracks']['items']:
+        songs.append({
+            "link": song['track']['external_urls']['spotify'],
+            "id": song['track']['id'],
+            "name": song['track']['name']
+        })
+
+    while 'next' in result:
+        result = json.loads(requests.get(result['next'], headers=headers).text)
+        for song in result['tracks']['items']:
+            songs.append({
+                "link": song['track']['external_urls']['spotify'],
+                "id": song['track']['id'],
+                "name": song['track']['name']
+            })
+
+    return songs
+
+
+def get_album_datum(input_datum, best_songs=[], headers=None):
     link = (
         "https://api.spotify.com/v1/albums/" +
         input_datum["album"].split("/")[-1].split("?")[0]
     )
     result = json.loads(requests.get(link, headers=headers).text)
 
-    datum = {
-        "name": result["name"],
-        "image": result["images"][0]["url"],
-        "link": result["external_urls"]["spotify"]
-    }
-
     artists = []
-
     for artist in result["artists"]:
         artists.append({
             "name": artist["name"],
             "link": artist["external_urls"]["spotify"]
         })
 
-    datum["artists"] = artists
+    this_songs = []
+    for song in result['tracks']['items']:
+        for best_song in best_songs:
+            if song['id'] == best_song['id']:
+                this_songs.append(best_song)
+                break
 
-    datum["rating"] = input_datum["rating"]
-    datum["recommended by"] = input_datum["recommended by"]
-    datum["best songs"] = input_datum["best songs"]
-    datum["comment"] = input_datum["comment"]
+    return {
+        "name": result["name"],
+        "image": result["images"][0]["url"],
+        "link": result["external_urls"]["spotify"],
 
-    return datum
+        "rating": input_datum["rating"],
+        "recommended by": input_datum["recommended by"],
+        "best songs": this_songs,
+        "comment": input_datum["comment"],
+
+        "artists": artists
+    }
 
 
-def get_playlist_datum(input_datum, headers=None):
+def get_playlist_datum(input_datum, best_songs=[], headers=None):
     link = (
         "https://api.spotify.com/v1/playlists/" +
         input_datum["playlist"].split("/")[-1].split("?")[0]
     )
     result = json.loads(requests.get(link, headers=headers).text)
 
-    datum = {
+    this_songs = []
+    for song in result['tracks']['items']:
+        for best_song in best_songs:
+            if song['track']['id'] == best_song['id']:
+                this_songs.append(best_song)
+                break
+
+    return {
         "name": result["name"],
         "image": result["images"][0]["url"],
-        "link": result["external_urls"]["spotify"]
+        "link": result["external_urls"]["spotify"],
+
+        "artists": input_datum["artists"],
+        "rating": input_datum["rating"],
+        "recommended by": input_datum["recommended by"],
+        "best songs": this_songs,
+        "comment": input_datum["comment"]
     }
 
-    datum["artists"] = input_datum["artists"]
-    datum["rating"] = input_datum["rating"]
-    datum["recommended by"] = input_datum["recommended by"]
-    datum["best songs"] = input_datum["best songs"]
-    datum["comment"] = input_datum["comment"]
 
-    return datum
+def get_datum(input_datum, best_songs=[], headers=None):
+    if "album" in input_datum:
+        return get_album_datum(input_datum,
+                               best_songs=best_songs,
+                               headers=headers)
+    elif "playlist" in input_datum:
+        return get_playlist_datum(input_datum,
+                                  best_songs=best_songs,
+                                  headers=headers)
 
 
 def main():
@@ -70,11 +115,12 @@ def main():
 
     data = []
 
+    best_songs = get_best_songs(headers=headers)
+
     for input_datum in input_data:
-        if "album" in input_datum:
-            data.append(get_album_datum(input_datum, headers=headers))
-        elif "playlist" in input_datum:
-            data.append(get_playlist_datum(input_datum, headers=headers))
+        data.append(get_datum(input_datum,
+                              best_songs=best_songs,
+                              headers=headers))
 
     with open("data/data.json", "w") as data_file:
         data_file.write(json.dumps(data, indent=2))

@@ -68,7 +68,8 @@ def create_album(album):
                 with tag("ul"):
                     for song in album['best songs']:
                         with tag("li"):
-                            text(song)
+                            with tag("a", href=song['link'], target="_blank"):
+                                text(song['name'])
 
                 doc.stag("br")
                 with tag("b"):

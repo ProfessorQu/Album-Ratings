@@ -3,42 +3,73 @@
     "name": "Toxicity",
     "image": "https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578",
     "link": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh",
+    "rating": 6.5,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE",
+        "id": "3AwLxSqo1jOOMpNsgxqRNE",
+        "name": "Prison Song"
+      },
+      {
+        "link": "https://open.spotify.com/track/58lcznIKSNlOVdmklrPA99",
+        "id": "58lcznIKSNlOVdmklrPA99",
+        "name": "Science"
+      }
+    ],
+    "comment": "Paar goeie maar af en toe te veel",
     "artists": [
       {
         "name": "System Of A Down",
         "link": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
       }
-    ],
-    "rating": 6.5,
-    "recommended by": "Victor",
-    "best songs": [
-      "Prison Song",
-      "Science"
-    ],
-    "comment": "Paar goeie maar af en toe te veel"
+    ]
   },
   {
     "name": "The Fat of the Land",
     "image": "https://i.scdn.co/image/ab67616d0000b2738688e410538bc27972791f4c",
     "link": "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP",
+    "rating": 6.5,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/2zKT0JYK2Ap1YgWMXoibnP",
+        "id": "2zKT0JYK2Ap1YgWMXoibnP",
+        "name": "Diesel Power"
+      },
+      {
+        "link": "https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU",
+        "id": "79CUrU5o2KAVDTNm4x3eGU",
+        "name": "Firestarter"
+      }
+    ],
+    "comment": "Leuke nummers maar vocals zijn wat minder",
     "artists": [
       {
         "name": "The Prodigy",
         "link": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
       }
-    ],
-    "rating": 6.5,
-    "recommended by": "Kasper",
-    "best songs": [
-      "Diesel Power",
-      "Firestarter"
-    ],
-    "comment": "Leuke nummers maar vocals zijn wat minder"
+    ]
   },
   {
     "name": "The Velvet Underground & Nico 45th Anniversary",
     "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
     "link": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV",
+    "rating": 7.5,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ",
+        "id": "11607FzqoipskTsXrwEHnJ",
+        "name": "Sunday Morning"
+      },
+      {
+        "link": "https://open.spotify.com/track/2J8Mbdpem8CiSZKRoZOIeG",
+        "id": "2J8Mbdpem8CiSZKRoZOIeG",
+        "name": "Run Run Run"
+      }
+    ],
+    "comment": "Goed tempo qua liedjes",
     "artists": [
       {
         "name": "The Velvet Underground",
@@ -48,272 +79,450 @@
         "name": "Nico",
         "link": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
       }
-    ],
-    "rating": 7.5,
-    "recommended by": "Kasper",
-    "best songs": [
-      "Sunday Morning",
-      "Run Run Run"
-    ],
-    "comment": "Goed tempo qua liedjes"
+    ]
   },
   {
     "name": "In Rainbows",
     "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
     "link": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK",
+    "rating": 9,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw",
+        "id": "4oXg7xT4ksBxHTx8PcmSXw",
+        "name": "15 Step"
+      },
+      {
+        "link": "https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg",
+        "id": "4pWIwnnqx8k01fuF95UMIg",
+        "name": "Bodysnatchers"
+      },
+      {
+        "link": "https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8",
+        "id": "35YyxFpE0ZTOoqFx5bADW8",
+        "name": "Nude"
+      },
+      {
+        "link": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
+        "id": "4wajJ1o7jWIg62YqpkHC7S",
+        "name": "Weird Fishes/ Arpeggi"
+      },
+      {
+        "link": "https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF",
+        "id": "48X4D1FYOShPz2VF3YdfCF",
+        "name": "House Of Cards"
+      },
+      {
+        "link": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV",
+        "id": "0YJ9FWWHn9EfnN0lHwbzvV",
+        "name": "Jigsaw Falling Into Place"
+      },
+      {
+        "link": "https://open.spotify.com/track/4T1iiabe7G0UjWQJCY6NE2",
+        "id": "4T1iiabe7G0UjWQJCY6NE2",
+        "name": "Videotape"
+      }
+    ],
+    "comment": "Waarchijnlijk 9 omdat ik er al naar luister",
     "artists": [
       {
         "name": "Radiohead",
         "link": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       }
-    ],
-    "rating": 9,
-    "recommended by": "Veerle",
-    "best songs": [
-      "15 Step",
-      "Bodysnatchers",
-      "Nude",
-      "Weird Fished/ Arpeggi",
-      "House of Cards",
-      "Jigsaw Falling Into Place",
-      "Videotape"
-    ],
-    "comment": "Waarchijnlijk 9 omdat ik er al naar luister"
+    ]
   },
   {
     "name": "Sic Fiction",
     "image": "https://i.scdn.co/image/ab67616d0000b2735691e025e887bd8d2826ae65",
     "link": "https://open.spotify.com/album/2qV6WbCRQvmhT1XA3GYqc1",
+    "rating": 8,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/2KXOjHHuXuQlDsWhAJym7Q",
+        "id": "2KXOjHHuXuQlDsWhAJym7Q",
+        "name": "Front Porch"
+      },
+      {
+        "link": "https://open.spotify.com/track/05devBajNkrkhFqSR9w6A9",
+        "id": "05devBajNkrkhFqSR9w6A9",
+        "name": "Stated in Context"
+      },
+      {
+        "link": "https://open.spotify.com/track/7lYiO3nfMWkzAoWTm3mRUn",
+        "id": "7lYiO3nfMWkzAoWTm3mRUn",
+        "name": "Sum of Hearts"
+      }
+    ],
+    "comment": "6 is actually insane",
     "artists": [
       {
         "name": "Rochambeaux",
         "link": "https://open.spotify.com/artist/1ZzNc0QqXkZxFCb3Wq8QdD"
       }
-    ],
-    "rating": 8,
-    "recommended by": "Victor",
-    "best songs": [
-      "Front Porch",
-      "Stated in Context",
-      "Sum of Hearts"
-    ],
-    "comment": "6 is actually insane"
+    ]
   },
   {
     "name": "Lateralus",
     "image": "https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1",
     "link": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T",
+    "rating": 8.5,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d",
+        "id": "7tvuLLroI0n6uYBWuFig5d",
+        "name": "Lateralus"
+      },
+      {
+        "link": "https://open.spotify.com/track/0R7HFX1LW3E0ZR5BnAJLHz",
+        "id": "0R7HFX1LW3E0ZR5BnAJLHz",
+        "name": "Reflection"
+      }
+    ],
+    "comment": "I like m(e)ath",
     "artists": [
       {
         "name": "TOOL",
         "link": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
       }
-    ],
-    "rating": 8.5,
-    "recommended by": "Kasper",
-    "best songs": [
-      "Lateralus",
-      "Reflection"
-    ],
-    "comment": "I like m(e)ath"
+    ]
   },
   {
     "name": "First Band On The Moon (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af",
     "link": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ",
+    "rating": 8,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/21wC5i3a5qEEPpXn3hXt8V",
+        "id": "21wC5i3a5qEEPpXn3hXt8V",
+        "name": "Been It"
+      },
+      {
+        "link": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD",
+        "id": "7aQjPecQdIuNd1sz3KCDhD",
+        "name": "Lovefool"
+      }
+    ],
+    "comment": "Lovefool is een banger",
     "artists": [
       {
         "name": "The Cardigans",
         "link": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
       }
-    ],
-    "rating": 8,
-    "recommended by": "Veerle",
-    "best songs": [
-      "Been It",
-      "Lovefool"
-    ],
-    "comment": "Lovefool is een banger"
+    ]
   },
   {
     "name": "BADLANDS (Deluxe)",
     "image": "https://i.scdn.co/image/ab67616d0000b27374fefed78db6d6cf4d963fdc",
     "link": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin",
+    "rating": 8.5,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/16w8ZGVSjI4TlTLV8VimBY",
+        "id": "16w8ZGVSjI4TlTLV8VimBY",
+        "name": "Castle"
+      },
+      {
+        "link": "https://open.spotify.com/track/3UhxppZQkfk9WniMtjpESF",
+        "id": "3UhxppZQkfk9WniMtjpESF",
+        "name": "New Americana"
+      },
+      {
+        "link": "https://open.spotify.com/track/6s8PRmROPJHlqZmu9Bbviz",
+        "id": "6s8PRmROPJHlqZmu9Bbviz",
+        "name": "Roman Holiday"
+      }
+    ],
+    "comment": "Literally just pop",
     "artists": [
       {
         "name": "Halsey",
         "link": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
       }
-    ],
-    "rating": 8.5,
-    "recommended by": "Victor",
-    "best songs": [
-      "Castle",
-      "New Americana",
-      "Roman Holiday",
-      "Strange Love",
-      "Gasoline",
-      "Young God"
-    ],
-    "comment": "Literally just pop"
+    ]
   },
   {
     "name": "Siamese Dream (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd",
     "link": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo",
+    "rating": 8,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak",
+        "id": "0u5aO1GYsIhAWCPuXdwnak",
+        "name": "Today - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM",
+        "id": "6YIggUJW3ttAAPRdnki8RM",
+        "name": "Disarm - 2011 Remaster"
+      }
+    ],
+    "comment": "Er zit niet heel veel range op het volume",
     "artists": [
       {
         "name": "The Smashing Pumpkins",
         "link": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
       }
-    ],
-    "rating": 8,
-    "recommended by": "Kasper",
-    "best songs": [
-      "Today",
-      "Disarm"
-    ],
-    "comment": "Er zit niet heel veel range op het volume"
+    ]
   },
   {
     "name": "How To Be A Human Being",
     "image": "https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23",
     "link": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy",
+    "rating": 9,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD",
+        "id": "32zkKx35Et6A515oZKxDkD",
+        "name": "Life Itself"
+      },
+      {
+        "link": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY",
+        "id": "1LPGwuFgIzbJoShfDdw7MY",
+        "name": "Youth"
+      },
+      {
+        "link": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly",
+        "id": "4vcoNCrTtunmJ9q8srpVly",
+        "name": "Season 2 Episode 3"
+      }
+    ],
+    "comment": "Gewoon goede nummers",
     "artists": [
       {
         "name": "Glass Animals",
         "link": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
       }
-    ],
-    "rating": 9,
-    "recommended by": "Veerle",
-    "best songs": [
-      "Life Itself",
-      "Youth",
-      "Season 2 Episode 3"
-    ],
-    "comment": "Gewoon goede nummers"
+    ]
   },
   {
     "name": "O My Heart",
     "image": "https://i.scdn.co/image/ab67616d0000b273bf77ec4fe60aa3163d91e767",
     "link": "https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA",
+    "rating": 9,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/15geVctY3jvUuDkEAaQPdV",
+        "id": "15geVctY3jvUuDkEAaQPdV",
+        "name": "O My Heart"
+      },
+      {
+        "link": "https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI",
+        "id": "5ZpAU5f4jxj6i9XoKK0RaI",
+        "name": "Burning Pile"
+      },
+      {
+        "link": "https://open.spotify.com/track/4ROgUDXvfguYoNmZ5htlnw",
+        "id": "4ROgUDXvfguYoNmZ5htlnw",
+        "name": "Wisdom"
+      },
+      {
+        "link": "https://open.spotify.com/track/2zXbLJiS5099aDVyTHIDU4",
+        "id": "2zXbLJiS5099aDVyTHIDU4",
+        "name": "Body"
+      },
+      {
+        "link": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK",
+        "id": "2kKkl59fY6Cic1CmhvSEZK",
+        "name": "Hayloft"
+      }
+    ],
+    "comment": "Makkelijk in te komen",
     "artists": [
       {
         "name": "Mother Mother",
         "link": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
       }
-    ],
-    "rating": 9,
-    "recommended by": "Victor",
-    "best songs": [
-      "O My Heart",
-      "Burning Pile",
-      "Wisdom",
-      "Body",
-      "Hayloft"
-    ],
-    "comment": "Makkelijk in te komen"
+    ]
   },
   {
     "name": "Plastic Beach",
     "image": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
     "link": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8",
+    "rating": 7.5,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1",
+        "id": "1UJNbgfTzG1gZZTWFJdMf1",
+        "name": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)"
+      },
+      {
+        "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
+        "id": "0q6LuUqGLUiCPP1cbdwFs3",
+        "name": "On Melancholy Hill"
+      }
+    ],
+    "comment": "Ze hebben wel heel veel featuring",
     "artists": [
       {
         "name": "Gorillaz",
         "link": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
       }
-    ],
-    "rating": 7.5,
-    "recommended by": "Kasper",
-    "best songs": [
-      "Superfast Jellyfish",
-      "On Melancholy Hill"
-    ],
-    "comment": "Ze hebben wel heel veel featuring"
+    ]
   },
   {
     "name": "Mezzanine",
     "image": "https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e",
     "link": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR",
+    "rating": 8,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ",
+        "id": "67Hna13dNDkZvBpTXRIaOJ",
+        "name": "Teardrop"
+      },
+      {
+        "link": "https://open.spotify.com/track/2HuMQkNVpFIsur2cRWWQmX",
+        "id": "2HuMQkNVpFIsur2cRWWQmX",
+        "name": "Exchange"
+      },
+      {
+        "link": "https://open.spotify.com/track/0oeEqyEAavgPfFxDYvjAP6",
+        "id": "0oeEqyEAavgPfFxDYvjAP6",
+        "name": "Dissolved Girl"
+      },
+      {
+        "link": "https://open.spotify.com/track/2Tz5THgkMOQeaW6DlqAlIa",
+        "id": "2Tz5THgkMOQeaW6DlqAlIa",
+        "name": "Man Next Door"
+      }
+    ],
+    "comment": "Allemaal goede liedjes",
     "artists": [
       {
         "name": "Massive Attack",
         "link": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
       }
-    ],
-    "rating": 8,
-    "recommended by": "Veerle",
-    "best songs": [
-      "Teardrop",
-      "Exchange",
-      "Dissolved Girl",
-      "Man Next Door"
-    ],
-    "comment": "Allemaal goede liedjes"
+    ]
   },
   {
     "name": "The Bastards",
     "image": "https://i.scdn.co/image/ab67616d0000b27369ec580ab2b0047ca579c766",
     "link": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl",
+    "rating": 8,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/6STnrl2lapbsGzEkqHZ5Rn",
+        "id": "6STnrl2lapbsGzEkqHZ5Rn",
+        "name": "Little Bastards"
+      },
+      {
+        "link": "https://open.spotify.com/track/417a1PceLb6Z5lnJaRrN07",
+        "id": "417a1PceLb6Z5lnJaRrN07",
+        "name": "Tonight Is The Night I Die"
+      },
+      {
+        "link": "https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50",
+        "id": "4jXbcY2ulVT7MOPdN8nR50",
+        "name": "Lonely"
+      },
+      {
+        "link": "https://open.spotify.com/track/28OzYyRyaq6yb35rMmp85t",
+        "id": "28OzYyRyaq6yb35rMmp85t",
+        "name": "Hang on to Yourself"
+      }
+    ],
+    "comment": "Heel goed maar niet fantastisch",
     "artists": [
       {
         "name": "Palaye Royale",
         "link": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
       }
-    ],
-    "rating": 8,
-    "recommended by": "Victor",
-    "best songs": [
-      "Little Bastards",
-      "Tonight Is The Night I Die",
-      "Lonely",
-      "Hang on to Yourself"
-    ],
-    "comment": "Heel goed maar niet fantastisch"
+    ]
   },
   {
     "name": "Doolittle",
     "image": "https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6",
     "link": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO",
+    "rating": 8.5,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq",
+        "id": "5cy5IStIn7OSHDEIgXeDyq",
+        "name": "Debaser"
+      },
+      {
+        "link": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa",
+        "id": "4IvZLDtwBHmBmwgDIUbuwa",
+        "name": "Here Comes Your Man"
+      },
+      {
+        "link": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW",
+        "id": "6BT7qiDY4A5tOyklohjQuW",
+        "name": "Monkey Gone to Heaven"
+      },
+      {
+        "link": "https://open.spotify.com/track/1TCSR2K7qofcXKzGEtNkyv",
+        "id": "1TCSR2K7qofcXKzGEtNkyv",
+        "name": "Mr. Grieves"
+      },
+      {
+        "link": "https://open.spotify.com/track/0p5eZCY0R7uNCZS1YDtIYI",
+        "id": "0p5eZCY0R7uNCZS1YDtIYI",
+        "name": "Hey"
+      }
+    ],
+    "comment": "Goede muziek sommige vocals vind ik een beetje ofputting",
     "artists": [
       {
         "name": "Pixies",
         "link": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
       }
-    ],
-    "rating": 8.5,
-    "recommended by": "Kasper",
-    "best songs": [
-      "Debaser",
-      "Here Comes Your Man",
-      "Monkey Gone to Heaven",
-      "Mr. Grieves",
-      "Hey"
-    ],
-    "comment": "Goede muziek sommige vocals vind ik een beetje ofputting"
+    ]
   },
   {
     "name": "Mellon Collie And The Infinite Sadness (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d0000b2734c42e40240028664f939f81c",
     "link": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl",
+    "rating": 8,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b",
+        "id": "4iCGSi1RonREsPtfEKYj5b",
+        "name": "Tonight, Tonight - Remastered 2012"
+      },
+      {
+        "link": "https://open.spotify.com/track/1o2jjiTtiVJEtQyYzcRHnm",
+        "id": "1o2jjiTtiVJEtQyYzcRHnm",
+        "name": "Zero - Remastered 2012"
+      },
+      {
+        "link": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP",
+        "id": "4qMzPtAZe0C9KWpWIzvZAP",
+        "name": "Bullet With Butterfly Wings - Remastered 2012"
+      },
+      {
+        "link": "https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ",
+        "id": "3Y8Ff1nH44jFywAtpgmleZ",
+        "name": "1979 - Remastered 2012"
+      },
+      {
+        "link": "https://open.spotify.com/track/4cMIz8ThlNNFjLIsWGzm47",
+        "id": "4cMIz8ThlNNFjLIsWGzm47",
+        "name": "By Starlight - Remastered 2012"
+      }
+    ],
+    "comment": "Hoe vaker je het luistert, hoe beter het is",
     "artists": [
       {
         "name": "The Smashing Pumpkins",
         "link": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
       }
-    ],
-    "rating": 8,
-    "recommended by": "Veerle",
-    "best songs": [
-      "Tonight, Tonight",
-      "Zero",
-      "Bullet With Butterfly Wings",
-      "1979",
-      "By Starlight"
-    ],
-    "comment": "Hoe vaker je het luistert, hoe beter het is"
+    ]
   },
   {
     "name": "Elmer stuff",
@@ -328,11 +537,31 @@
     "rating": 8.5,
     "recommended by": "Victor",
     "best songs": [
-      "Nothing Ontploffing",
-      "Ik Weiger",
-      "Politiek Statement",
-      "Je Vader",
-      "Sorry"
+      {
+        "link": "https://open.spotify.com/track/3TDHmFKCfFviqOndrk9wde",
+        "id": "3TDHmFKCfFviqOndrk9wde",
+        "name": "Nothing Ontploffing"
+      },
+      {
+        "link": "https://open.spotify.com/track/3o0MvXQlFyY07F8r9M7FzL",
+        "id": "3o0MvXQlFyY07F8r9M7FzL",
+        "name": "Ik Weiger"
+      },
+      {
+        "link": "https://open.spotify.com/track/6gwnv91pJqH7KwHdlM1A8u",
+        "id": "6gwnv91pJqH7KwHdlM1A8u",
+        "name": "Politiek Statement"
+      },
+      {
+        "link": "https://open.spotify.com/track/2sKalaNB2f339ibdic06K3",
+        "id": "2sKalaNB2f339ibdic06K3",
+        "name": "Je Vader"
+      },
+      {
+        "link": "https://open.spotify.com/track/2u24ldTAKtehIm7UFmQsKC",
+        "id": "2u24ldTAKtehIm7UFmQsKC",
+        "name": "Sorry"
+      }
     ],
     "comment": "Ik neuk je vader zonder condoom yeah"
   },
@@ -340,6 +569,21 @@
     "name": "Madvillainy",
     "image": "https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a",
     "link": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
+    "rating": 7,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/1JLvr8qmZ6hQM7H6MsIqHV",
+        "id": "1JLvr8qmZ6hQM7H6MsIqHV",
+        "name": "Strange Ways"
+      },
+      {
+        "link": "https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob",
+        "id": "21O0XXPEWPtePt5RMY93Ob",
+        "name": "All Caps"
+      }
+    ],
+    "comment": "Het is goed maar ik voel hem niet helemaal",
     "artists": [
       {
         "name": "Madvillain",
@@ -353,47 +597,52 @@
         "name": "MF DOOM",
         "link": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
       }
-    ],
-    "rating": 7,
-    "recommended by": "Kasper",
-    "best songs": [
-      "Strange Ways",
-      "All Caps"
-    ],
-    "comment": "Het is goed maar ik voel hem niet helemaal"
+    ]
   },
   {
     "name": "Dummy",
     "image": "https://i.scdn.co/image/ab67616d0000b273dc20397b139223620af148f6",
     "link": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno",
+    "rating": 8.5,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/2O6X9nPVVQSefg3xOQAo5u",
+        "id": "2O6X9nPVVQSefg3xOQAo5u",
+        "name": "Mysterons"
+      },
+      {
+        "link": "https://open.spotify.com/track/6pW8YspamPCxUwgvYttTSc",
+        "id": "6pW8YspamPCxUwgvYttTSc",
+        "name": "Strangers"
+      },
+      {
+        "link": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt",
+        "id": "7h14W1uQK7sjpVI1oVTobt",
+        "name": "Wandering Star"
+      }
+    ],
+    "comment": "-",
     "artists": [
       {
         "name": "Portishead",
         "link": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
       }
-    ],
-    "rating": 8.5,
-    "recommended by": "Veerle",
-    "best songs": [
-      "Mysterons",
-      "Strangers",
-      "Wandering Star"
-    ],
-    "comment": "-"
+    ]
   },
   {
     "name": "Avenged Sevenfold",
     "image": "https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742",
     "link": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF",
+    "rating": "-",
+    "recommended by": "Victor",
+    "best songs": [],
+    "comment": "-",
     "artists": [
       {
         "name": "Avenged Sevenfold",
         "link": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
       }
-    ],
-    "rating": "-",
-    "recommended by": "Victor",
-    "best songs": [],
-    "comment": "-"
+    ]
   }
 ]

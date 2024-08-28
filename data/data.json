@@ -622,7 +622,7 @@
         "name": "Wandering Star"
       }
     ],
-    "comment": "-",
+    "comment": "Het is gewoon hele chille muziek",
     "artists": [
       {
         "name": "Portishead",
@@ -634,10 +634,21 @@
     "name": "Avenged Sevenfold",
     "image": "https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742",
     "link": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF",
-    "rating": "-",
+    "rating": 8,
     "recommended by": "Victor",
-    "best songs": [],
-    "comment": "-",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU",
+        "id": "0DkmhHO4yyqCJFjosmmWPU",
+        "name": "Almost Easy"
+      },
+      {
+        "link": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n",
+        "id": "7zAt4tdL44D3VuzsvM0N8n",
+        "name": "Afterlife"
+      }
+    ],
+    "comment": "Ik herken meerdere van deze liedjes dus ik heb het sowieso eerder gehoord",
     "artists": [
       {
         "name": "Avenged Sevenfold",

@@ -9,16 +9,22 @@ def create_index(albums):
     with tag("html"):
         with tag("head"):
             doc.line("title", "Album Ratings")
-            doc.stag("link", rel="stylesheet", href="static/style.css")
+            doc.stag("link", rel="icon", href="assets/icon.png")
+            doc.stag("link", rel="stylesheet", href="static/stylesheet.css")
+            with tag("script", src="script.js"):
+                pass
 
         with tag("body"):
             with tag("h1"):
                 text("Album Ratings")
 
-            for album in albums:
-                with tag("a", href=f"albums/{album['name']}.html"):
-                    doc.stag("img", src=album['image'],
-                             klass="cover-image")
+            with tag("div", klass="album-list"):
+                for album in albums:
+                    klass = f"cover-image {album['recommended by'].lower()}"
+                    with tag("a",
+                             href=f"albums/{album['name']}.html",
+                             klass=klass):
+                        doc.stag("img", src=album['image'])
 
     index_content = indent(doc.getvalue())
 
@@ -34,7 +40,7 @@ def create_album(album):
         with tag("head"):
             doc.line("title", f"Ratings - {album['name']}")
             doc.stag("link", rel="icon", href=album['image'])
-            doc.stag("link", rel="stylesheet", href="../static/style.css")
+            doc.stag("link", rel="stylesheet", href="../static/stylesheet.css")
 
         with tag("body"):
             with tag("h1"):
@@ -49,32 +55,35 @@ def create_album(album):
                     if i < len(album['artists']) - 1:
                         text(" & ")
 
-            with tag("div", klass="content"):
+            with tag("div",
+                     klass=f"content {album['recommended by'].lower()}"):
                 with tag("a", href=album['link'], target="_blank"):
-                    doc.stag("img", src=album['image'], klass="album-image")
+                    doc.stag("img", src=album['image'])
 
-                with tag("b"):
-                    text("Recommended by ")
-                text(album['recommended by'])
+                with tag("div", klass="text"):
+                    with tag("b"):
+                        text("Recommended by ")
+                    text(album['recommended by'])
 
-                doc.stag("br")
-                with tag("b"):
-                    text("Rating ")
-                text(f"{album['rating']} / 10")
+                    doc.stag("br")
+                    with tag("b"):
+                        text("Rating ")
+                    text(f"{album['rating']} / 10")
 
-                doc.stag("br")
-                with tag("b"):
-                    text("Best Songs ")
-                with tag("ul"):
-                    for song in album['best songs']:
-                        with tag("li"):
-                            with tag("a", href=song['link'], target="_blank"):
-                                text(song['name'])
+                    doc.stag("br")
+                    with tag("b"):
+                        text("Best Songs ")
+                    with tag("ul"):
+                        for song in album['best songs']:
+                            with tag("li"):
+                                with tag("a", href=song['link'],
+                                         target="_blank"):
+                                    text(song['name'])
 
-                doc.stag("br")
-                with tag("b"):
-                    text("Comment ")
-                text(album['comment'])
+                    doc.stag("br")
+                    with tag("b"):
+                        text("Comment ")
+                    text(album['comment'])
 
     album_content = indent(doc.getvalue())
 

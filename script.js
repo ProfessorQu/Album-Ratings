@@ -1,7 +1,7 @@
 document.addEventListener("mousemove", event => {
     const documents = document.getElementsByClassName("cover-image");
     for (let i = 0; i < documents.length; i++) {
-        documents.item(i).querySelector('img').style.transform = `perspective(1000px) rotateY(0deg) rotateX(0deg) scale3d(1, 1, 1)`
+        documents.item(i).querySelector('img').style.transform = `perspective(1000px) rotateY(0deg) rotateX(0deg) scale3d(1, 1, 1)`;
     }
 
     if (event.target.tagName !== "IMG" && event.target.tagName !== "A") {
@@ -13,19 +13,18 @@ document.addEventListener("mousemove", event => {
     const middleX = (right + left) / 2;
     const middleY = (bottom + top) / 2;
 
-    const clientX = event.clientX;
-    const clientY = event.clientY;
+    const {clientX, clientY} = event;
 
     const offsetX = (clientX - middleX) / middleX;
     const offsetY = (middleY - clientY) / middleY;
 
-    const style = `perspective(1000px)
-    rotateY(${offsetX * 30}deg)
-    rotateX(${offsetY * 30}deg)
+    const transformStyle = `perspective(1000px)
+    rotateY(${offsetX * 10}deg)
+    rotateX(${offsetY * 10}deg)
     scale3d(1, 1, 1)`;
     if (event.target.tagName === "IMG") {
-        event.target.style.transform = style;
+        event.target.style.transform = transformStyle;
     } else {
-        event.target.querySelector('img').style.transform = style;
+        event.target.querySelector('img').style.transform = transformStyle;
     }
 })

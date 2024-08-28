@@ -14,8 +14,9 @@ html {
 
 body { 
     backdrop-filter: blur(4px);
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    min-height: 100vh;
+    max-height: 100%;
     margin: 0;
 }
 
@@ -47,8 +48,6 @@ a, a:visited {
 .cover-image img {
     width: 90%;
     height: 90%;
-
-    /* filter: drop-shadow(0 0 0.3em black) */
 }
 
 .content {

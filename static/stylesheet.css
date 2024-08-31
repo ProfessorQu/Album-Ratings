@@ -20,6 +20,30 @@ body {
     margin: 0;
 }
 
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #111;
+}
+
 h1, h2 {
     text-align: center;
     margin-top: 0;
@@ -33,6 +57,19 @@ a, a:visited {
     text-decoration: none;
 }
 
+table {
+    background-color: white;
+    border-collapse: collapse;
+    margin: 1vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td, th {
+    border: 3px dashed black;
+    padding: 10px;
+}
+
 .album-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, 32vw);
@@ -40,14 +77,12 @@ a, a:visited {
 }
 
 .cover-image {
-    margin: 10%;
-    width: 100%;
-    height: 100%;
+    margin: 1vw;
 }
 
 .cover-image img {
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
 }
 
 .content {
@@ -68,7 +103,6 @@ a, a:visited {
 }
 
 .kasper img {
-    /* filter: drop-shadow(0 0 2em var(--kasper-color)) */
     border: 5px solid var(--kasper-color);
 }
 
@@ -78,7 +112,6 @@ a, a:visited {
 
 .veerle img {
     border: 5px solid var(--veerle-color);
-    /* filter: drop-shadow(0 0 2em var(--veerle-color)); */
 }
 
 .victor .text {
@@ -86,9 +119,7 @@ a, a:visited {
 }
 
 .victor img {
-    /* filter: drop-shadow(0 0 2em var(--victor-color)) */
     border: 5px solid var(--victor-color);
-    /* border-color: var(--victor-color); */
 }
 
 .content ul {
@@ -100,6 +131,5 @@ a, a:visited {
 
 .content img {
     float: left;
-    /* padding-right: 1.5em; */
     width: 50%;
 }

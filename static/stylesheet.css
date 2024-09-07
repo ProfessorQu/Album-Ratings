@@ -60,14 +60,27 @@ a, a:visited {
 table {
     background-color: white;
     border-collapse: collapse;
-    margin: 1vw;
+    margin: 0;
     margin-left: auto;
     margin-right: auto;
+
+    font-size: larger;
+}
+
+table td:nth-child(5) {
+    width: 5em;
 }
 
 td, th {
     border: 3px dashed black;
     padding: 10px;
+    text-align: center;
+}
+
+td ul {
+    margin: 0;
+    padding-left: 1em;
+    text-align: left;
 }
 
 .album-list {

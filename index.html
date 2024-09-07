@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Album Ratings</title>
-    <link rel="icon" href="assets/icon.png" />
+    <link rel="icon" href="static/icon.png" />
     <link rel="stylesheet" href="static/stylesheet.css" />
     <script src="script.js"></script>
   </head>
@@ -12,70 +12,589 @@
         <a href="index.html">Home</a>
       </li>
       <li>
-        <a href="list.html">List</a>
+        <a href="grid.html">Grid</a>
       </li>
     </ul>
-    <div class="album-list">
-      <a href="albums/Toxicity.html" class="cover-image victor">
-        <img src="https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578" />
-      </a>
-      <a href="albums/The Fat of the Land.html" class="cover-image kasper">
-        <img src="https://i.scdn.co/image/ab67616d0000b2738688e410538bc27972791f4c" />
-      </a>
-      <a href="albums/The Velvet Underground &amp; Nico 45th Anniversary.html" class="cover-image kasper">
-        <img src="https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7" />
-      </a>
-      <a href="albums/In Rainbows.html" class="cover-image veerle">
-        <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" />
-      </a>
-      <a href="albums/Sic Fiction.html" class="cover-image victor">
-        <img src="https://i.scdn.co/image/ab67616d0000b2735691e025e887bd8d2826ae65" />
-      </a>
-      <a href="albums/Lateralus.html" class="cover-image kasper">
-        <img src="https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1" />
-      </a>
-      <a href="albums/First Band On The Moon (Remastered).html" class="cover-image veerle">
-        <img src="https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af" />
-      </a>
-      <a href="albums/BADLANDS (Deluxe).html" class="cover-image victor">
-        <img src="https://i.scdn.co/image/ab67616d0000b27374fefed78db6d6cf4d963fdc" />
-      </a>
-      <a href="albums/Siamese Dream (Deluxe Edition).html" class="cover-image kasper">
-        <img src="https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd" />
-      </a>
-      <a href="albums/How To Be A Human Being.html" class="cover-image veerle">
-        <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" />
-      </a>
-      <a href="albums/O My Heart.html" class="cover-image victor">
-        <img src="https://i.scdn.co/image/ab67616d0000b273bf77ec4fe60aa3163d91e767" />
-      </a>
-      <a href="albums/Plastic Beach.html" class="cover-image kasper">
-        <img src="https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985" />
-      </a>
-      <a href="albums/Mezzanine.html" class="cover-image veerle">
-        <img src="https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e" />
-      </a>
-      <a href="albums/The Bastards.html" class="cover-image victor">
-        <img src="https://i.scdn.co/image/ab67616d0000b27369ec580ab2b0047ca579c766" />
-      </a>
-      <a href="albums/Doolittle.html" class="cover-image kasper">
-        <img src="https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6" />
-      </a>
-      <a href="albums/Mellon Collie And The Infinite Sadness (Remastered).html" class="cover-image veerle">
-        <img src="https://i.scdn.co/image/ab67616d0000b2734c42e40240028664f939f81c" />
-      </a>
-      <a href="albums/Elmer stuff.html" class="cover-image victor">
-        <img src="https://mosaic.scdn.co/640/ab67616d00001e022f21d7055814236b28342b19ab67616d00001e026c56da9b33cc328696902abeab67616d00001e02e1f8df409a18d3e0fa70e051ab67616d00001e02eb7df03e6831fc84f60fa7b6" />
-      </a>
-      <a href="albums/Madvillainy.html" class="cover-image kasper">
-        <img src="https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a" />
-      </a>
-      <a href="albums/Dummy.html" class="cover-image veerle">
-        <img src="https://i.scdn.co/image/ab67616d0000b273dc20397b139223620af148f6" />
-      </a>
-      <a href="albums/Avenged Sevenfold.html" class="cover-image victor">
-        <img src="https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742" />
-      </a>
-    </div>
+    <table>
+      <tr>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Artists</th>
+        <th>Recommended by</th>
+        <th>Rating</th>
+        <th>Best songs</th>
+      </tr>
+      <tr class="veerle">
+        <td>
+          <a href="albums/In Rainbows.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK">In Rainbows</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb" target="_blank">Radiohead</a>
+        </td>
+        <td class="text">Veerle</td>
+        <td>9 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw" target="_blank">15 Step</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg" target="_blank">Bodysnatchers</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8" target="_blank">Nude</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S" target="_blank">Weird Fishes/ Arpeggi</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF" target="_blank">House Of Cards</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV" target="_blank">Jigsaw Falling Into Place</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4T1iiabe7G0UjWQJCY6NE2" target="_blank">Videotape</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="veerle">
+        <td>
+          <a href="albums/How To Be A Human Being.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy">How To Be A Human Being</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq" target="_blank">Glass Animals</a>
+        </td>
+        <td class="text">Veerle</td>
+        <td>9 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD" target="_blank">Life Itself</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY" target="_blank">Youth</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly" target="_blank">Season 2 Episode 3</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="victor">
+        <td>
+          <a href="albums/O My Heart.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b273bf77ec4fe60aa3163d91e767" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA">O My Heart</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph" target="_blank">Mother Mother</a>
+        </td>
+        <td class="text">Victor</td>
+        <td>9 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/15geVctY3jvUuDkEAaQPdV" target="_blank">O My Heart</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI" target="_blank">Burning Pile</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4ROgUDXvfguYoNmZ5htlnw" target="_blank">Wisdom</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/2zXbLJiS5099aDVyTHIDU4" target="_blank">Body</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK" target="_blank">Hayloft</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="kasper">
+        <td>
+          <a href="albums/Lateralus.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T">Lateralus</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8" target="_blank">TOOL</a>
+        </td>
+        <td class="text">Kasper</td>
+        <td>8.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d" target="_blank">Lateralus</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/0R7HFX1LW3E0ZR5BnAJLHz" target="_blank">Reflection</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="victor">
+        <td>
+          <a href="albums/BADLANDS (Deluxe).html">
+            <img src="https://i.scdn.co/image/ab67616d0000b27374fefed78db6d6cf4d963fdc" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin">BADLANDS (Deluxe)</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2" target="_blank">Halsey</a>
+        </td>
+        <td class="text">Victor</td>
+        <td>8.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/16w8ZGVSjI4TlTLV8VimBY" target="_blank">Castle</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/3UhxppZQkfk9WniMtjpESF" target="_blank">New Americana</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/6s8PRmROPJHlqZmu9Bbviz" target="_blank">Roman Holiday</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="kasper">
+        <td>
+          <a href="albums/Doolittle.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b2730ab3c2a306c614fae36ff1d6" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO">Doolittle</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT" target="_blank">Pixies</a>
+        </td>
+        <td class="text">Kasper</td>
+        <td>8.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq" target="_blank">Debaser</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa" target="_blank">Here Comes Your Man</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW" target="_blank">Monkey Gone to Heaven</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/1TCSR2K7qofcXKzGEtNkyv" target="_blank">Mr. Grieves</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/0p5eZCY0R7uNCZS1YDtIYI" target="_blank">Hey</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="victor">
+        <td>
+          <a href="albums/Elmer stuff.html">
+            <img src="https://mosaic.scdn.co/640/ab67616d00001e022f21d7055814236b28342b19ab67616d00001e026c56da9b33cc328696902abeab67616d00001e02e1f8df409a18d3e0fa70e051ab67616d00001e02eb7df03e6831fc84f60fa7b6" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/playlist/5cnoo00Jfq9lf3qtlq3Ygl">Elmer stuff</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp" target="_blank">Elmer</a>
+        </td>
+        <td class="text">Victor</td>
+        <td>8.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/3TDHmFKCfFviqOndrk9wde" target="_blank">Nothing Ontploffing</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/3o0MvXQlFyY07F8r9M7FzL" target="_blank">Ik Weiger</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/6gwnv91pJqH7KwHdlM1A8u" target="_blank">Politiek Statement</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/2sKalaNB2f339ibdic06K3" target="_blank">Je Vader</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/2u24ldTAKtehIm7UFmQsKC" target="_blank">Sorry</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="veerle">
+        <td>
+          <a href="albums/Dummy.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b273dc20397b139223620af148f6" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno">Dummy</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y" target="_blank">Portishead</a>
+        </td>
+        <td class="text">Veerle</td>
+        <td>8.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/2O6X9nPVVQSefg3xOQAo5u" target="_blank">Mysterons</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/6pW8YspamPCxUwgvYttTSc" target="_blank">Strangers</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt" target="_blank">Wandering Star</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="victor">
+        <td>
+          <a href="albums/Sic Fiction.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b2735691e025e887bd8d2826ae65" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/2qV6WbCRQvmhT1XA3GYqc1">Sic Fiction</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/1ZzNc0QqXkZxFCb3Wq8QdD" target="_blank">Rochambeaux</a>
+        </td>
+        <td class="text">Victor</td>
+        <td>8 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/2KXOjHHuXuQlDsWhAJym7Q" target="_blank">Front Porch</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/05devBajNkrkhFqSR9w6A9" target="_blank">Stated in Context</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/7lYiO3nfMWkzAoWTm3mRUn" target="_blank">Sum of Hearts</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="veerle">
+        <td>
+          <a href="albums/First Band On The Moon (Remastered).html">
+            <img src="https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ">First Band On The Moon (Remastered)</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw" target="_blank">The Cardigans</a>
+        </td>
+        <td class="text">Veerle</td>
+        <td>8 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/21wC5i3a5qEEPpXn3hXt8V" target="_blank">Been It</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD" target="_blank">Lovefool</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="kasper">
+        <td>
+          <a href="albums/Siamese Dream (Deluxe Edition).html">
+            <img src="https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo">Siamese Dream (Deluxe Edition)</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i" target="_blank">The Smashing Pumpkins</a>
+        </td>
+        <td class="text">Kasper</td>
+        <td>8 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak" target="_blank">Today - 2011 Remaster</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM" target="_blank">Disarm - 2011 Remaster</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="veerle">
+        <td>
+          <a href="albums/Mezzanine.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR">Mezzanine</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X" target="_blank">Massive Attack</a>
+        </td>
+        <td class="text">Veerle</td>
+        <td>8 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ" target="_blank">Teardrop</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/2HuMQkNVpFIsur2cRWWQmX" target="_blank">Exchange</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/0oeEqyEAavgPfFxDYvjAP6" target="_blank">Dissolved Girl</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/2Tz5THgkMOQeaW6DlqAlIa" target="_blank">Man Next Door</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="victor">
+        <td>
+          <a href="albums/The Bastards.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b27369ec580ab2b0047ca579c766" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl">The Bastards</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI" target="_blank">Palaye Royale</a>
+        </td>
+        <td class="text">Victor</td>
+        <td>8 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/6STnrl2lapbsGzEkqHZ5Rn" target="_blank">Little Bastards</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/417a1PceLb6Z5lnJaRrN07" target="_blank">Tonight Is The Night I Die</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50" target="_blank">Lonely</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/28OzYyRyaq6yb35rMmp85t" target="_blank">Hang on to Yourself</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="veerle">
+        <td>
+          <a href="albums/Mellon Collie And The Infinite Sadness (Remastered).html">
+            <img src="https://i.scdn.co/image/ab67616d0000b2734c42e40240028664f939f81c" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl">Mellon Collie And The Infinite Sadness (Remastered)</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i" target="_blank">The Smashing Pumpkins</a>
+        </td>
+        <td class="text">Veerle</td>
+        <td>8 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b" target="_blank">Tonight, Tonight - Remastered 2012</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/1o2jjiTtiVJEtQyYzcRHnm" target="_blank">Zero - Remastered 2012</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP" target="_blank">Bullet With Butterfly Wings - Remastered 2012</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ" target="_blank">1979 - Remastered 2012</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/4cMIz8ThlNNFjLIsWGzm47" target="_blank">By Starlight - Remastered 2012</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="victor">
+        <td>
+          <a href="albums/Avenged Sevenfold.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF">Avenged Sevenfold</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs" target="_blank">Avenged Sevenfold</a>
+        </td>
+        <td class="text">Victor</td>
+        <td>8 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU" target="_blank">Almost Easy</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n" target="_blank">Afterlife</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="kasper">
+        <td>
+          <a href="albums/The Velvet Underground &amp; Nico 45th Anniversary.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV">The Velvet Underground &amp; Nico 45th Anniversary</a>
+        </td>
+        <td><a href="https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC" target="_blank">The Velvet Underground</a> &amp; <a href="https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj" target="_blank">Nico</a></td>
+        <td class="text">Kasper</td>
+        <td>7.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ" target="_blank">Sunday Morning</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/2J8Mbdpem8CiSZKRoZOIeG" target="_blank">Run Run Run</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="kasper">
+        <td>
+          <a href="albums/Plastic Beach.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8">Plastic Beach</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ" target="_blank">Gorillaz</a>
+        </td>
+        <td class="text">Kasper</td>
+        <td>7.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1" target="_blank">Superfast Jellyfish (feat. Gruff Rhys and De La Soul)</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3" target="_blank">On Melancholy Hill</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="kasper">
+        <td>
+          <a href="albums/Madvillainy.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk">Madvillainy</a>
+        </td>
+        <td><a href="https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU" target="_blank">Madvillain</a> &amp; <a href="https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf" target="_blank">Madlib</a> &amp; <a href="https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL" target="_blank">MF DOOM</a></td>
+        <td class="text">Kasper</td>
+        <td>7 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/1JLvr8qmZ6hQM7H6MsIqHV" target="_blank">Strange Ways</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob" target="_blank">All Caps</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="victor">
+        <td>
+          <a href="albums/Toxicity.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh">Toxicity</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1" target="_blank">System Of A Down</a>
+        </td>
+        <td class="text">Victor</td>
+        <td>6.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE" target="_blank">Prison Song</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/58lcznIKSNlOVdmklrPA99" target="_blank">Science</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr class="kasper">
+        <td>
+          <a href="albums/The Fat of the Land.html">
+            <img src="https://i.scdn.co/image/ab67616d0000b2738688e410538bc27972791f4c" style="width: 5em;" />
+          </a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP">The Fat of the Land</a>
+        </td>
+        <td>
+          <a href="https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB" target="_blank">The Prodigy</a>
+        </td>
+        <td class="text">Kasper</td>
+        <td>6.5 / 10</td>
+        <td>
+          <ul>
+            <li>
+              <a href="https://open.spotify.com/track/2zKT0JYK2Ap1YgWMXoibnP" target="_blank">Diesel Power</a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU" target="_blank">Firestarter</a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+    </table>
   </body>
 </html>

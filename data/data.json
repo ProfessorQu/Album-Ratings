@@ -655,5 +655,215 @@
         "link": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
       }
     ]
+  },
+  {
+    "name": "Somewhere City",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c5547296da4279c0f3a93cc9",
+    "link": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn",
+    "rating": 8,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO",
+        "id": "0ZwS03v4euiMztP9xDLgoO",
+        "name": "24 Hr Drive-Thru"
+      },
+      {
+        "link": "https://open.spotify.com/track/4NGJPKIULc39WvgNwDjKQT",
+        "id": "4NGJPKIULc39WvgNwDjKQT",
+        "name": "Escape Rope"
+      },
+      {
+        "link": "https://open.spotify.com/track/3RBptDxpH6VntWaNISmPDi",
+        "id": "3RBptDxpH6VntWaNISmPDi",
+        "name": "The Air Up Here"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Origami Angel",
+        "link": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+      }
+    ]
+  },
+  {
+    "name": "BRAT",
+    "image": "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
+    "link": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
+    "rating": 7.5,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex",
+        "id": "4w2GLmK2wnioVnb5CPQeex",
+        "name": "360"
+      },
+      {
+        "link": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k",
+        "id": "0CySZwyRJ0vyUqtSjM9i2k",
+        "name": "Club classics"
+      },
+      {
+        "link": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW",
+        "id": "5c9tBmJKbTdn1vhzXHeAwW",
+        "name": "Sympathy is a knife"
+      },
+      {
+        "link": "https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB",
+        "id": "0AkiAfilrTUXV49dleC5SB",
+        "name": "So I"
+      },
+      {
+        "link": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o",
+        "id": "19RybK6XDbAVpcdxSbZL1o",
+        "name": "Apple"
+      },
+      {
+        "link": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG",
+        "id": "5h68SoVFGleijCtjEja3xG",
+        "name": "365"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Charli xcx",
+        "link": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      }
+    ]
+  },
+  {
+    "name": "Hour of the Nightingale",
+    "image": "https://i.scdn.co/image/ab67616d0000b27330b7ab789a9e418f654c0e3e",
+    "link": "https://open.spotify.com/album/6sFhi9TivgwN6XzcEYcfAy",
+    "rating": 8,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/5GDtPTEoZ8xGdmjYFULKvR",
+        "id": "5GDtPTEoZ8xGdmjYFULKvR",
+        "name": "Eye of Night"
+      },
+      {
+        "link": "https://open.spotify.com/track/7vbEL5ShK2IxblO2KTQEcB",
+        "id": "7vbEL5ShK2IxblO2KTQEcB",
+        "name": "Hour of the Nightingale"
+      },
+      {
+        "link": "https://open.spotify.com/track/5QERtYM6aZMei0ITheYQQ8",
+        "id": "5QERtYM6aZMei0ITheYQQ8",
+        "name": "Broken Mirror"
+      },
+      {
+        "link": "https://open.spotify.com/track/57bDYTidJDNZJjCjXCTXLD",
+        "id": "57bDYTidJDNZJjCjXCTXLD",
+        "name": "Sinking Ships"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Trees of Eternity",
+        "link": "https://open.spotify.com/artist/7IxOJnsT8vXhTTzb6nlPOO"
+      }
+    ]
+  },
+  {
+    "name": "In the Aeroplane Over the Sea",
+    "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
+    "link": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob",
+    "rating": 7.5,
+    "recommended by": "Kasper",
+    "best songs": [],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Neutral Milk Hotel",
+        "link": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+      }
+    ]
+  },
+  {
+    "name": "The Bends",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+    "link": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
+    "rating": 9.5,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/37JISltgxizbDAyNEEqkTY",
+        "id": "37JISltgxizbDAyNEEqkTY",
+        "name": "Planet Telex"
+      },
+      {
+        "link": "https://open.spotify.com/track/7oDFvnqXkXuiZa1sACXobj",
+        "id": "7oDFvnqXkXuiZa1sACXobj",
+        "name": "The Bends"
+      },
+      {
+        "link": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf",
+        "id": "2a1iMaoWQ5MnvLFBDv4qkf",
+        "name": "High and Dry"
+      },
+      {
+        "link": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F",
+        "id": "73CKjW3vsUXRpy3NnX4H7F",
+        "name": "Fake Plastic Trees"
+      },
+      {
+        "link": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR",
+        "id": "1dyTcli07c77mtQK3ahUZR",
+        "name": "Just"
+      },
+      {
+        "link": "https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG",
+        "id": "0jyikFM0Umv0KlnrOEKtTG",
+        "name": "My Iron Lung"
+      },
+      {
+        "link": "https://open.spotify.com/track/6UO72VSXEONxdfLyABihs9",
+        "id": "6UO72VSXEONxdfLyABihs9",
+        "name": "Black Star"
+      },
+      {
+        "link": "https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF",
+        "id": "2QwObYJWyJTiozvs0RI7CF",
+        "name": "Street Spirit (Fade Out)"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Radiohead",
+        "link": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      }
+    ]
+  },
+  {
+    "name": "The Downward Spiral",
+    "image": "https://i.scdn.co/image/ab67616d0000b273786dc008f4d6fcf34ca8fd7e",
+    "link": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF",
+    "rating": 7,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC",
+        "id": "2Mv8In1IykWH5oLDc66PRC",
+        "name": "Closer"
+      },
+      {
+        "link": "https://open.spotify.com/track/27tX58NOpv1YKQ0abW7EPy",
+        "id": "27tX58NOpv1YKQ0abW7EPy",
+        "name": "Hurt"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Nine Inch Nails",
+        "link": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+      }
+    ]
   }
 ]

@@ -144,5 +144,35 @@
         "recommended by": "Victor",
         "best songs": [],
         "comment": "Ik herken meerdere van deze liedjes dus ik heb het sowieso eerder gehoord"
+    },
+    {
+        "album": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn?si=8GJoXyAdQDWR06CSNKtKig",
+        "rating": 8,
+        "recommended by": "Kasper"
+    },
+    {
+        "album": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=hsk__IpJR3yJrio80tkPsA",
+        "rating": 7.5,
+        "recommended by": "Veerle"
+    },
+    {
+        "album": "https://open.spotify.com/album/6sFhi9TivgwN6XzcEYcfAy?si=bYVnuCNXRXGXOgLutlFNJA",
+        "rating": 8,
+        "recommended by": "Victor"
+    },
+    {
+        "album": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob?si=HmUtnZnzTv6CultyPBvTLQ",
+        "rating": 7.5,
+        "recommended by": "Kasper"
+    },
+    {
+        "album": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg?si=lHKV3SfhSL-OWjHSQzyLZA",
+        "rating": 9.5,
+        "recommended by": "Veerle"
+    },
+    {
+        "album": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF?si=5GxMvujDSYCtCIN14rYzGQ",
+        "rating": 7,
+        "recommended by": "Victor"
     }
 ]

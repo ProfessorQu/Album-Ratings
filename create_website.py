@@ -40,7 +40,7 @@ def create_index(albums):
                 with tag("tr"):
                     _create_table_headers(tag, text)
 
-                albums.sort(key=lambda x: x['rating'], reverse=True)
+                albums.sort(key=lambda x: (-x['rating'], x['name']))
 
                 for album in albums:
                     with tag("tr", klass=album['recommended by'].lower()):
@@ -111,7 +111,7 @@ def _create_content(tag, text, album, doc):
 
     _create_best_songs_list(album, tag, text)
 
-    if 'comment' in album:
+    if album['comment'] != "":
         doc.stag("br")
         with tag("b"):
             text("Comment ")

@@ -60,7 +60,7 @@ def get_album_datum(input_datum, best_songs=None, headers=None):
         "rating": input_datum["rating"],
         "recommended by": input_datum["recommended by"],
         "best songs": this_songs,
-        "comment": input_datum["comment"],
+        "comment": input_datum["comment"] if 'comment' in input_datum else "",
 
         "artists": artists
     }

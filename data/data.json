@@ -3,13 +3,33 @@
     "name": "Toxicity",
     "image": "https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578",
     "link": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh",
-    "rating": 6.5,
+    "rating": 7.5,
     "recommended by": "Victor",
     "best songs": [
       {
         "link": "https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE",
         "id": "3AwLxSqo1jOOMpNsgxqRNE",
         "name": "Prison Song"
+      },
+      {
+        "link": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN",
+        "id": "2DlHlPMa4M17kufBvI2lEN",
+        "name": "Chop Suey!"
+      },
+      {
+        "link": "https://open.spotify.com/track/6dr2T6DRymdT1jfSUxDgut",
+        "id": "6dr2T6DRymdT1jfSUxDgut",
+        "name": "Bounce"
+      },
+      {
+        "link": "https://open.spotify.com/track/1B5Y9I5wPfvD3C2A81A36C",
+        "id": "1B5Y9I5wPfvD3C2A81A36C",
+        "name": "Forest"
+      },
+      {
+        "link": "https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ",
+        "id": "6gCVA6ja6g0foIsWv0RuSZ",
+        "name": "ATWA"
       },
       {
         "link": "https://open.spotify.com/track/58lcznIKSNlOVdmklrPA99",
@@ -29,9 +49,14 @@
     "name": "The Fat of the Land",
     "image": "https://i.scdn.co/image/ab67616d0000b2738688e410538bc27972791f4c",
     "link": "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP",
-    "rating": 6.5,
+    "rating": 7,
     "recommended by": "Kasper",
     "best songs": [
+      {
+        "link": "https://open.spotify.com/track/48vDCZIRmrFO33fH4QU4ij",
+        "id": "48vDCZIRmrFO33fH4QU4ij",
+        "name": "Smack My Bitch Up"
+      },
       {
         "link": "https://open.spotify.com/track/2zKT0JYK2Ap1YgWMXoibnP",
         "id": "2zKT0JYK2Ap1YgWMXoibnP",
@@ -41,6 +66,11 @@
         "link": "https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU",
         "id": "79CUrU5o2KAVDTNm4x3eGU",
         "name": "Firestarter"
+      },
+      {
+        "link": "https://open.spotify.com/track/5mXU1591cqRwwJ43f6GcjL",
+        "id": "5mXU1591cqRwwJ43f6GcjL",
+        "name": "Fuel My Fire"
       }
     ],
     "comment": "Leuke nummers maar vocals zijn wat minder",
@@ -55,7 +85,7 @@
     "name": "The Velvet Underground & Nico 45th Anniversary",
     "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
     "link": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV",
-    "rating": 7.5,
+    "rating": 8,
     "recommended by": "Kasper",
     "best songs": [
       {
@@ -64,9 +94,24 @@
         "name": "Sunday Morning"
       },
       {
+        "link": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb",
+        "id": "3fElupNRLRJ0tbUDahPrAb",
+        "name": "I'm Waiting For The Man"
+      },
+      {
+        "link": "https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo",
+        "id": "3PG7BAJG9WkmNOJOlc4uAo",
+        "name": "Femme Fatale"
+      },
+      {
         "link": "https://open.spotify.com/track/2J8Mbdpem8CiSZKRoZOIeG",
         "id": "2J8Mbdpem8CiSZKRoZOIeG",
         "name": "Run Run Run"
+      },
+      {
+        "link": "https://open.spotify.com/track/7qOVMMY0couqt76ObwY947",
+        "id": "7qOVMMY0couqt76ObwY947",
+        "name": "There She Goes Again"
       }
     ],
     "comment": "Goed tempo qua liedjes",
@@ -85,7 +130,7 @@
     "name": "In Rainbows",
     "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
     "link": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK",
-    "rating": 9,
+    "rating": 9.5,
     "recommended by": "Veerle",
     "best songs": [
       {
@@ -107,6 +152,11 @@
         "link": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
         "id": "4wajJ1o7jWIg62YqpkHC7S",
         "name": "Weird Fishes/ Arpeggi"
+      },
+      {
+        "link": "https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J",
+        "id": "5Qv2Nby1xTr9pQyjkrc94J",
+        "name": "All I Need"
       },
       {
         "link": "https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF",
@@ -167,7 +217,7 @@
     "name": "Lateralus",
     "image": "https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1",
     "link": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T",
-    "rating": 8.5,
+    "rating": 7,
     "recommended by": "Kasper",
     "best songs": [
       {
@@ -193,7 +243,7 @@
     "name": "First Band On The Moon (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af",
     "link": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ",
-    "rating": 8,
+    "rating": 8.5,
     "recommended by": "Veerle",
     "best songs": [
       {
@@ -250,7 +300,7 @@
     "name": "Siamese Dream (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd",
     "link": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo",
-    "rating": 8,
+    "rating": 9,
     "recommended by": "Kasper",
     "best songs": [
       {
@@ -276,7 +326,7 @@
     "name": "How To Be A Human Being",
     "image": "https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23",
     "link": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy",
-    "rating": 9,
+    "rating": 8,
     "recommended by": "Veerle",
     "best songs": [
       {
@@ -348,7 +398,7 @@
     "name": "Plastic Beach",
     "image": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
     "link": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8",
-    "rating": 7.5,
+    "rating": 8,
     "recommended by": "Kasper",
     "best songs": [
       {
@@ -410,7 +460,7 @@
     "name": "The Bastards",
     "image": "https://i.scdn.co/image/ab67616d0000b27369ec580ab2b0047ca579c766",
     "link": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl",
-    "rating": 8,
+    "rating": 8.5,
     "recommended by": "Victor",
     "best songs": [
       {
@@ -487,7 +537,7 @@
     "name": "Mellon Collie And The Infinite Sadness (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d0000b2734c42e40240028664f939f81c",
     "link": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl",
-    "rating": 8,
+    "rating": 9,
     "recommended by": "Veerle",
     "best songs": [
       {
@@ -569,7 +619,7 @@
     "name": "Madvillainy",
     "image": "https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a",
     "link": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
-    "rating": 7,
+    "rating": 7.5,
     "recommended by": "Kasper",
     "best songs": [
       {

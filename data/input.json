@@ -3,112 +3,184 @@
         "album": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh",
         "rating": 7.5,
         "recommended by": "Victor",
-        "best songs": ["Prison Song", "Science"],
+        "best songs": [
+            "Prison Song",
+            "Science"
+        ],
         "comment": "Paar goeie maar af en toe te veel"
     },
     {
         "album": "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP",
         "rating": 7,
         "recommended by": "Kasper",
-        "best songs": ["Diesel Power", "Firestarter"],
+        "best songs": [
+            "Diesel Power",
+            "Firestarter"
+        ],
         "comment": "Leuke nummers maar vocals zijn wat minder"
     },
     {
         "album": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV",
         "rating": 8,
         "recommended by": "Kasper",
-        "best songs": ["Sunday Morning", "Run Run Run"],
+        "best songs": [
+            "Sunday Morning",
+            "Run Run Run"
+        ],
         "comment": "Goed tempo qua liedjes"
     },
     {
         "album": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK",
         "rating": 9.5,
         "recommended by": "Veerle",
-        "best songs": ["15 Step", "Bodysnatchers", "Nude", "Weird Fished/ Arpeggi", "House of Cards", "Jigsaw Falling Into Place", "Videotape"],
+        "best songs": [
+            "15 Step",
+            "Bodysnatchers",
+            "Nude",
+            "Weird Fished/ Arpeggi",
+            "House of Cards",
+            "Jigsaw Falling Into Place",
+            "Videotape"
+        ],
         "comment": "Waarchijnlijk 9 omdat ik er al naar luister"
     },
     {
         "album": "https://open.spotify.com/album/2qV6WbCRQvmhT1XA3GYqc1",
         "rating": 8,
         "recommended by": "Victor",
-        "best songs": ["Front Porch", "Stated in Context", "Sum of Hearts"],
+        "best songs": [
+            "Front Porch",
+            "Stated in Context",
+            "Sum of Hearts"
+        ],
         "comment": "6 is actually insane"
     },
     {
         "album": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T",
         "rating": 7,
         "recommended by": "Kasper",
-        "best songs": ["Lateralus", "Reflection"],
+        "best songs": [
+            "Lateralus",
+            "Reflection"
+        ],
         "comment": "I like m(e)ath"
     },
     {
         "album": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ",
-        "rating": 8.5,
+        "rating": 9.5,
         "recommended by": "Veerle",
-        "best songs": ["Been It", "Lovefool"],
+        "best songs": [
+            "Been It",
+            "Lovefool"
+        ],
         "comment": "Lovefool is een banger"
     },
     {
         "album": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin",
         "rating": 8.5,
         "recommended by": "Victor",
-        "best songs": ["Castle", "New Americana", "Roman Holiday", "Strange Love", "Gasoline", "Young God"],
+        "best songs": [
+            "Castle",
+            "New Americana",
+            "Roman Holiday",
+            "Strange Love",
+            "Gasoline",
+            "Young God"
+        ],
         "comment": "Literally just pop"
     },
     {
         "album": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo",
         "rating": 9,
         "recommended by": "Kasper",
-        "best songs": ["Today", "Disarm"],
+        "best songs": [
+            "Today",
+            "Disarm"
+        ],
         "comment": "Er zit niet heel veel range op het volume"
     },
     {
         "album": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy",
         "rating": 8,
         "recommended by": "Veerle",
-        "best songs": ["Life Itself", "Youth", "Season 2 Episode 3"],
+        "best songs": [
+            "Life Itself",
+            "Youth",
+            "Season 2 Episode 3"
+        ],
         "comment": "Gewoon goede nummers"
     },
     {
         "album": "https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA",
         "rating": 9,
         "recommended by": "Victor",
-        "best songs": ["O My Heart", "Burning Pile", "Wisdom", "Body", "Hayloft"],
+        "best songs": [
+            "O My Heart",
+            "Burning Pile",
+            "Wisdom",
+            "Body",
+            "Hayloft"
+        ],
         "comment": "Makkelijk in te komen"
     },
     {
         "album": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8",
         "rating": 8,
         "recommended by": "Kasper",
-        "best songs": ["Superfast Jellyfish", "On Melancholy Hill"],
+        "best songs": [
+            "Superfast Jellyfish",
+            "On Melancholy Hill"
+        ],
         "comment": "Ze hebben wel heel veel featuring"
     },
     {
         "album": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR",
         "rating": 8,
         "recommended by": "Veerle",
-        "best songs": ["Teardrop", "Exchange", "Dissolved Girl", "Man Next Door"],
+        "best songs": [
+            "Teardrop",
+            "Exchange",
+            "Dissolved Girl",
+            "Man Next Door"
+        ],
         "comment": "Allemaal goede liedjes"
     },
     {
         "album": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl",
         "rating": 8.5,
         "recommended by": "Victor",
-        "best songs": ["Little Bastards", "Tonight Is The Night I Die", "Lonely", "Hang on to Yourself"],
+        "best songs": [
+            "Little Bastards",
+            "Tonight Is The Night I Die",
+            "Lonely",
+            "Hang on to Yourself"
+        ],
         "comment": "Heel goed maar niet fantastisch"
     },
     {
         "album": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO",
         "rating": 8.5,
         "recommended by": "Kasper",
-        "best songs": ["Debaser", "Here Comes Your Man", "Monkey Gone to Heaven", "Mr. Grieves", "Hey"],
+        "best songs": [
+            "Debaser",
+            "Here Comes Your Man",
+            "Monkey Gone to Heaven",
+            "Mr. Grieves",
+            "Hey"
+        ],
         "comment": "Goede muziek sommige vocals vind ik een beetje ofputting"
     },
     {
         "album": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl",
         "rating": 9,
         "recommended by": "Veerle",
-        "best songs": ["Tonight, Tonight", "Zero", "Bullet With Butterfly Wings", "1979", "By Starlight"],
+        "best songs": [
+            "Tonight, Tonight",
+            "Zero",
+            "Bullet With Butterfly Wings",
+            "1979",
+            "By Starlight"
+        ],
         "comment": "Hoe vaker je het luistert, hoe beter het is"
     },
     {
@@ -121,21 +193,34 @@
         ],
         "rating": 8.5,
         "recommended by": "Victor",
-        "best songs": ["Nothing Ontploffing", "Ik Weiger", "Politiek Statement", "Je Vader", "Sorry"],
+        "best songs": [
+            "Nothing Ontploffing",
+            "Ik Weiger",
+            "Politiek Statement",
+            "Je Vader",
+            "Sorry"
+        ],
         "comment": "Ik neuk je vader zonder condoom yeah"
     },
     {
         "album": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
         "rating": 7.5,
         "recommended by": "Kasper",
-        "best songs": ["Strange Ways", "All Caps"],
+        "best songs": [
+            "Strange Ways",
+            "All Caps"
+        ],
         "comment": "Het is goed maar ik voel hem niet helemaal"
     },
     {
         "album": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno",
         "rating": 8.5,
         "recommended by": "Veerle",
-        "best songs": ["Mysterons", "Strangers", "Wandering Star"],
+        "best songs": [
+            "Mysterons",
+            "Strangers",
+            "Wandering Star"
+        ],
         "comment": "Het is gewoon hele chille muziek"
     },
     {
@@ -146,33 +231,83 @@
         "comment": "Ik herken meerdere van deze liedjes dus ik heb het sowieso eerder gehoord"
     },
     {
-        "album": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn?si=8GJoXyAdQDWR06CSNKtKig",
-        "rating": 8,
+        "album": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn",
+        "rating": 9,
         "recommended by": "Kasper"
     },
     {
-        "album": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=hsk__IpJR3yJrio80tkPsA",
+        "album": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
         "rating": 7.5,
         "recommended by": "Veerle"
     },
     {
-        "album": "https://open.spotify.com/album/6sFhi9TivgwN6XzcEYcfAy?si=bYVnuCNXRXGXOgLutlFNJA",
+        "album": "https://open.spotify.com/album/6sFhi9TivgwN6XzcEYcfAy",
         "rating": 8,
         "recommended by": "Victor"
     },
     {
-        "album": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob?si=HmUtnZnzTv6CultyPBvTLQ",
+        "album": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob",
         "rating": 7.5,
         "recommended by": "Kasper"
     },
     {
-        "album": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg?si=lHKV3SfhSL-OWjHSQzyLZA",
-        "rating": 9.5,
+        "album": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
+        "rating": 10,
         "recommended by": "Veerle"
     },
     {
-        "album": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF?si=5GxMvujDSYCtCIN14rYzGQ",
+        "album": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF",
         "rating": 7,
         "recommended by": "Victor"
+    },
+    {
+        "album": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q",
+        "rating": 10,
+        "recommended by": "Kasper"
+    },
+    {
+        "album": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7",
+        "rating": 8.5,
+        "recommended by": "Veerle"
+    },
+    {
+        "album": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy",
+        "rating": 9,
+        "recommended by": "Victor"
+    },
+    {
+        "album": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A",
+        "rating": 9.5,
+        "recommended by": "Quint"
+    },
+    {
+        "album": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke",
+        "rating": 9.5,
+        "recommended by": "Kasper"
+    },
+    {
+        "album": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1",
+        "rating": 9,
+        "recommended by": "Veerle"
+    },
+    {
+        "album": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4",
+        "rating": 8.5,
+        "recommended by": "Victor"
+    },
+    {
+        "album": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
+        "rating": 9.5,
+        "recommended by": "Quint"
+    },
+    {
+        "album": "https://open.spotify.com/album/21jUB9RqplD6OqtsTjKBnO",
+        "rating": 8.5,
+        "recommended by": "Kasper"
+    },
+    {
+        "album": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt",
+        "rating": 8,
+        "recommended by": "Veerle"
     }
 ]

@@ -151,7 +151,7 @@
       {
         "link": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
         "id": "4wajJ1o7jWIg62YqpkHC7S",
-        "name": "Weird Fishes/ Arpeggi"
+        "name": "Weird Fishes / Arpeggi"
       },
       {
         "link": "https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J",
@@ -243,13 +243,38 @@
     "name": "First Band On The Moon (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af",
     "link": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ",
-    "rating": 8.5,
+    "rating": 9.5,
     "recommended by": "Veerle",
     "best songs": [
+      {
+        "link": "https://open.spotify.com/track/5BLA1EL22Jf62O1HW6TWkE",
+        "id": "5BLA1EL22Jf62O1HW6TWkE",
+        "name": "Your New Cuckoo"
+      },
       {
         "link": "https://open.spotify.com/track/21wC5i3a5qEEPpXn3hXt8V",
         "id": "21wC5i3a5qEEPpXn3hXt8V",
         "name": "Been It"
+      },
+      {
+        "link": "https://open.spotify.com/track/3T3dvEdz2aBw3SivcwjK76",
+        "id": "3T3dvEdz2aBw3SivcwjK76",
+        "name": "Heartbreaker"
+      },
+      {
+        "link": "https://open.spotify.com/track/3ciC1ywWPBQdzTrR6CELqy",
+        "id": "3ciC1ywWPBQdzTrR6CELqy",
+        "name": "Happy Meal II"
+      },
+      {
+        "link": "https://open.spotify.com/track/4NBQ5yAvgL5w35ojsPSRtf",
+        "id": "4NBQ5yAvgL5w35ojsPSRtf",
+        "name": "Never Recover"
+      },
+      {
+        "link": "https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN",
+        "id": "6ZaiqbV2GfUtrUlhsu58fN",
+        "name": "Step On Me"
       },
       {
         "link": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD",
@@ -304,6 +329,11 @@
     "recommended by": "Kasper",
     "best songs": [
       {
+        "link": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx",
+        "id": "3ow0TQVttXQF8rLckmXgRx",
+        "name": "Cherub Rock - 2011 Remaster"
+      },
+      {
         "link": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak",
         "id": "0u5aO1GYsIhAWCPuXdwnak",
         "name": "Today - 2011 Remaster"
@@ -312,6 +342,16 @@
         "link": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM",
         "id": "6YIggUJW3ttAAPRdnki8RM",
         "name": "Disarm - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA",
+        "id": "0jmKzJmUEKNbC7eU8YfOiA",
+        "name": "Mayonaise - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/0KQbsC4lUfm0qmRW68g6BF",
+        "id": "0KQbsC4lUfm0qmRW68g6BF",
+        "name": "Spaceboy - 2011 Remaster"
       }
     ],
     "comment": "Er zit niet heel veel range op het volume",
@@ -343,6 +383,11 @@
         "link": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly",
         "id": "4vcoNCrTtunmJ9q8srpVly",
         "name": "Season 2 Episode 3"
+      },
+      {
+        "link": "https://open.spotify.com/track/7GHqPV9RCRofSXh68htAkg",
+        "id": "7GHqPV9RCRofSXh68htAkg",
+        "name": "Cane Shuga"
       }
     ],
     "comment": "Gewoon goede nummers",
@@ -384,6 +429,11 @@
         "link": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK",
         "id": "2kKkl59fY6Cic1CmhvSEZK",
         "name": "Hayloft"
+      },
+      {
+        "link": "https://open.spotify.com/track/007JQyyu6DrGza9XX6scAN",
+        "id": "007JQyyu6DrGza9XX6scAN",
+        "name": "Wrecking Ball"
       }
     ],
     "comment": "Makkelijk in te komen",
@@ -402,6 +452,11 @@
     "recommended by": "Kasper",
     "best songs": [
       {
+        "link": "https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG",
+        "id": "1foMv2HQwfQ2vntFf9HFeG",
+        "name": "Rhinestone Eyes"
+      },
+      {
         "link": "https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1",
         "id": "1UJNbgfTzG1gZZTWFJdMf1",
         "name": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)"
@@ -410,6 +465,16 @@
         "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
         "id": "0q6LuUqGLUiCPP1cbdwFs3",
         "name": "On Melancholy Hill"
+      },
+      {
+        "link": "https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G",
+        "id": "3THFKx88trZuOFlssVLJ5G",
+        "name": "Broken"
+      },
+      {
+        "link": "https://open.spotify.com/track/5SM5amC17V4itA5jxIICjS",
+        "id": "5SM5amC17V4itA5jxIICjS",
+        "name": "Sweepstakes (feat. Mos Def and Hypnotic Brass Ensemble)"
       }
     ],
     "comment": "Ze hebben wel heel veel featuring",
@@ -541,6 +606,11 @@
     "recommended by": "Veerle",
     "best songs": [
       {
+        "link": "https://open.spotify.com/track/6jrNtWLvTRQhIzWkeU9IFX",
+        "id": "6jrNtWLvTRQhIzWkeU9IFX",
+        "name": "Mellon Collie And The Infinite Sadness - Remastered 2012"
+      },
+      {
         "link": "https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b",
         "id": "4iCGSi1RonREsPtfEKYj5b",
         "name": "Tonight, Tonight - Remastered 2012"
@@ -559,6 +629,11 @@
         "link": "https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ",
         "id": "3Y8Ff1nH44jFywAtpgmleZ",
         "name": "1979 - Remastered 2012"
+      },
+      {
+        "link": "https://open.spotify.com/track/6GhARgb2Nl2GboIVdQsevV",
+        "id": "6GhARgb2Nl2GboIVdQsevV",
+        "name": "We Only Come Out At Night - Remastered 2012"
       },
       {
         "link": "https://open.spotify.com/track/4cMIz8ThlNNFjLIsWGzm47",
@@ -611,6 +686,21 @@
         "link": "https://open.spotify.com/track/2u24ldTAKtehIm7UFmQsKC",
         "id": "2u24ldTAKtehIm7UFmQsKC",
         "name": "Sorry"
+      },
+      {
+        "link": "https://open.spotify.com/track/5b1VsPN05loR3ENfe8T8tz",
+        "id": "5b1VsPN05loR3ENfe8T8tz",
+        "name": "haat"
+      },
+      {
+        "link": "https://open.spotify.com/track/6mMSy2aRazTEUOQ1FG2UDv",
+        "id": "6mMSy2aRazTEUOQ1FG2UDv",
+        "name": "vaarwel"
+      },
+      {
+        "link": "https://open.spotify.com/track/1pYb07lXsp4Y7qLSEBges4",
+        "id": "1pYb07lXsp4Y7qLSEBges4",
+        "name": "platland"
       }
     ],
     "comment": "Ik neuk je vader zonder condoom yeah"
@@ -696,6 +786,16 @@
         "link": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n",
         "id": "7zAt4tdL44D3VuzsvM0N8n",
         "name": "Afterlife"
+      },
+      {
+        "link": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w",
+        "id": "7MOQrtXMNImAq5TrPZzC0w",
+        "name": "Gunslinger"
+      },
+      {
+        "link": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl",
+        "id": "1BLfQ6dPXmuDrFmbdfW7Jl",
+        "name": "A Little Piece of Heaven"
       }
     ],
     "comment": "Ik herken meerdere van deze liedjes dus ik heb het sowieso eerder gehoord",
@@ -710,7 +810,7 @@
     "name": "Somewhere City",
     "image": "https://i.scdn.co/image/ab67616d0000b273c5547296da4279c0f3a93cc9",
     "link": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn",
-    "rating": 8,
+    "rating": 9,
     "recommended by": "Kasper",
     "best songs": [
       {
@@ -849,7 +949,7 @@
     "name": "The Bends",
     "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
     "link": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
-    "rating": 9.5,
+    "rating": 10,
     "recommended by": "Veerle",
     "best songs": [
       {
@@ -924,6 +1024,406 @@
       {
         "name": "Nine Inch Nails",
         "link": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+      }
+    ]
+  },
+  {
+    "name": "Weezer",
+    "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+    "link": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q",
+    "rating": 10,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w",
+        "id": "4nzyOwogJuWn1s6QuGFZ6w",
+        "name": "My Name Is Jonas"
+      },
+      {
+        "link": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E",
+        "id": "3mwvKOyMmG77zZRunnxp9E",
+        "name": "Buddy Holly"
+      },
+      {
+        "link": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV",
+        "id": "5WhtlIoxoZrMmuaWWEQhwV",
+        "name": "Undone - The Sweater Song"
+      },
+      {
+        "link": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA",
+        "id": "6VoIBz0VhCyz7OdEoRYDiA",
+        "name": "Say It Ain't So - Original Mix"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Weezer",
+        "link": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+      }
+    ]
+  },
+  {
+    "name": "The Queen Is Dead",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
+    "link": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7",
+    "rating": 8.5,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t",
+        "id": "03yOjwHoOPDlTUg0NRxN6t",
+        "name": "Cemetry Gates - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p",
+        "id": "2OErSh4oVVAUll0vHxdr6p",
+        "name": "Bigmouth Strikes Again - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp",
+        "id": "6s1lXoCa6EmIGnr0GrwcJp",
+        "name": "The Boy with the Thorn in His Side - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI",
+        "id": "0WQiDwKJclirSYG9v5tayI",
+        "name": "There Is a Light That Never Goes Out - 2011 Remaster"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "The Smiths",
+        "link": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      }
+    ]
+  },
+  {
+    "name": "Scoring The End Of The World (Deluxe Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eff4f508bc231ee7a91846f9",
+    "link": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy",
+    "rating": 9,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/5MCUpUfWI7r0v931vSiWul",
+        "id": "5MCUpUfWI7r0v931vSiWul",
+        "name": "Sign Of Life"
+      },
+      {
+        "link": "https://open.spotify.com/track/2qcDnbfsc2KS4QveTCo3cd",
+        "id": "2qcDnbfsc2KS4QveTCo3cd",
+        "name": "Werewolf"
+      },
+      {
+        "link": "https://open.spotify.com/track/3VygEA5I6WT0pZzl7H4Zhz",
+        "id": "3VygEA5I6WT0pZzl7H4Zhz",
+        "name": "Porcelain"
+      },
+      {
+        "link": "https://open.spotify.com/track/1TV5sFVlCtSokttsHkImCh",
+        "id": "1TV5sFVlCtSokttsHkImCh",
+        "name": "We Become The Night"
+      },
+      {
+        "link": "https://open.spotify.com/track/1uTJHf4xqGvrFwo6yLZpnC",
+        "id": "1uTJHf4xqGvrFwo6yLZpnC",
+        "name": "Cyberhex"
+      },
+      {
+        "link": "https://open.spotify.com/track/10vQfeG4Z9E2owJ1KNHzNW",
+        "id": "10vQfeG4Z9E2owJ1KNHzNW",
+        "name": "Red, White & Boom (feat. Caleb Shomo)"
+      },
+      {
+        "link": "https://open.spotify.com/track/2bcbWaxjeVmoOmWNeNEMem",
+        "id": "2bcbWaxjeVmoOmWNeNEMem",
+        "name": "Scoring The End Of The World (feat. Mick Gordon)"
+      },
+      {
+        "link": "https://open.spotify.com/track/22ijqBTnBAjct38WxCTsg4",
+        "id": "22ijqBTnBAjct38WxCTsg4",
+        "name": "Porcelain: Ricky Motion Picture Collection"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Motionless In White",
+        "link": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+      }
+    ]
+  },
+  {
+    "name": "platland",
+    "image": "https://i.scdn.co/image/ab67616d0000b27399b51a776ee3d51c53fa9956",
+    "link": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A",
+    "rating": 9.5,
+    "recommended by": "Quint",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/1pYb07lXsp4Y7qLSEBges4",
+        "id": "1pYb07lXsp4Y7qLSEBges4",
+        "name": "platland"
+      },
+      {
+        "link": "https://open.spotify.com/track/01k2Fs6QEAu7yTpeoERG70",
+        "id": "01k2Fs6QEAu7yTpeoERG70",
+        "name": "dorpsfeest"
+      },
+      {
+        "link": "https://open.spotify.com/track/5b1VsPN05loR3ENfe8T8tz",
+        "id": "5b1VsPN05loR3ENfe8T8tz",
+        "name": "haat"
+      },
+      {
+        "link": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk",
+        "id": "4S9rZWREFz276yShOf09Dk",
+        "name": "alle buren moeten dood"
+      },
+      {
+        "link": "https://open.spotify.com/track/6mMSy2aRazTEUOQ1FG2UDv",
+        "id": "6mMSy2aRazTEUOQ1FG2UDv",
+        "name": "vaarwel"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Elmer",
+        "link": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+      }
+    ]
+  },
+  {
+    "name": "American Idiot",
+    "image": "https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b",
+    "link": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke",
+    "rating": 9.5,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj",
+        "id": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot"
+      },
+      {
+        "link": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr",
+        "id": "58KPPL1AdLHMvR2O2PZejr",
+        "name": "Jesus of Suburbia"
+      },
+      {
+        "link": "https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo",
+        "id": "0MsrWnxQZxPAcov7c74sSo",
+        "name": "Holiday / Boulevard of Broken Dreams"
+      },
+      {
+        "link": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm",
+        "id": "3ZffCQKLFLUvYM59XKLbVm",
+        "name": "Wake Me up When September Ends"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Green Day",
+        "link": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+      }
+    ]
+  },
+  {
+    "name": "Twilight",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739e030b804258dc2017ad859f",
+    "link": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1",
+    "rating": 9,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM",
+        "id": "42qNWdLKCI41S4uzfamhFM",
+        "name": "Duvet"
+      },
+      {
+        "link": "https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN",
+        "id": "6d67Xv8ms2noA8wWFLiPDN",
+        "name": "Twilight"
+      },
+      {
+        "link": "https://open.spotify.com/track/7MdKQKCcCxu5rLeD8H6tsu",
+        "id": "7MdKQKCcCxu5rLeD8H6tsu",
+        "name": "Deeply"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "b\u00f4a",
+        "link": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+      }
+    ]
+  },
+  {
+    "name": "POST HUMAN: SURVIVAL HORROR",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684",
+    "link": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4",
+    "rating": 8.5,
+    "recommended by": "Victor",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj",
+        "id": "36xBFaVGjqm7le8CTHytUj",
+        "name": "Parasite Eve"
+      },
+      {
+        "link": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ",
+        "id": "3WATWS2Ywo5HeHtG0bE2iZ",
+        "name": "Teardrops"
+      },
+      {
+        "link": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+        "id": "7CAbF0By0Fpnbiu6Xn5ZF7",
+        "name": "Kingslayer (feat. BABYMETAL)"
+      },
+      {
+        "link": "https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk",
+        "id": "6sIbv1oWOuma2qV907MUbk",
+        "name": "1x1 (feat. Nova Twins)"
+      },
+      {
+        "link": "https://open.spotify.com/track/4xWirulal0kGikFE3WSU75",
+        "id": "4xWirulal0kGikFE3WSU75",
+        "name": "Ludens"
+      },
+      {
+        "link": "https://open.spotify.com/track/20Kau1BL5IUaPo4l488D57",
+        "id": "20Kau1BL5IUaPo4l488D57",
+        "name": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Bring Me The Horizon",
+        "link": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+      }
+    ]
+  },
+  {
+    "name": "Dookie",
+    "image": "https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d",
+    "link": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
+    "rating": 9.5,
+    "recommended by": "Quint",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC",
+        "id": "3LRJbFT9rKoKv4aW7PuBJC",
+        "name": "Longview"
+      },
+      {
+        "link": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s",
+        "id": "6L89mwZXSOwYl76YXfX13s",
+        "name": "Basket Case"
+      },
+      {
+        "link": "https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB",
+        "id": "4wsQGsdf8D0Bj26cGdvreB",
+        "name": "She"
+      },
+      {
+        "link": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz",
+        "id": "1Dr1fXbc2IxaK1Mu8P8Khz",
+        "name": "When I Come Around"
+      },
+      {
+        "link": "https://open.spotify.com/track/4GSyhhe5HHAytp7KlmWlZX",
+        "id": "4GSyhhe5HHAytp7KlmWlZX",
+        "name": "In the End"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Green Day",
+        "link": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+      }
+    ]
+  },
+  {
+    "name": "Animals (2011 Remastered Version)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731a0e01b6cd607bbc41c3ff4b",
+    "link": "https://open.spotify.com/album/21jUB9RqplD6OqtsTjKBnO",
+    "rating": 8.5,
+    "recommended by": "Kasper",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/7yWdsy6UHRTun4hkJZJYNq",
+        "id": "7yWdsy6UHRTun4hkJZJYNq",
+        "name": "Dogs - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/23dTQ4fjLrPPbYHamkJDzo",
+        "id": "23dTQ4fjLrPPbYHamkJDzo",
+        "name": "Pigs (Three Different Ones) - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/33MQVOulAb4ZlUP2l3yZBG",
+        "id": "33MQVOulAb4ZlUP2l3yZBG",
+        "name": "Sheep - 2011 Remaster"
+      },
+      {
+        "link": "https://open.spotify.com/track/2RBSzV75kOKEpRoL1CQ3Ej",
+        "id": "2RBSzV75kOKEpRoL1CQ3Ej",
+        "name": "Pigs On The Wing 2 - 2011 Remaster"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Pink Floyd",
+        "link": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      }
+    ]
+  },
+  {
+    "name": "Heligoland",
+    "image": "https://i.scdn.co/image/ab67616d0000b273852aaa233e122f1dbfefcf00",
+    "link": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt",
+    "rating": 8,
+    "recommended by": "Veerle",
+    "best songs": [
+      {
+        "link": "https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt",
+        "id": "1r9mGafUiSgumJoRqyLrSt",
+        "name": "Splitting The Atom"
+      },
+      {
+        "link": "https://open.spotify.com/track/3zkPvQZx6ZflYZtw6PZ82X",
+        "id": "3zkPvQZx6ZflYZtw6PZ82X",
+        "name": "Girl I Love You"
+      },
+      {
+        "link": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY",
+        "id": "2BndJYJQ17UcEeUFJP5JmY",
+        "name": "Paradise Circus"
+      },
+      {
+        "link": "https://open.spotify.com/track/6rU0dLXyWbXqti69nrQP4H",
+        "id": "6rU0dLXyWbXqti69nrQP4H",
+        "name": "Paradise Circus - Gui Boratto Remix"
+      },
+      {
+        "link": "https://open.spotify.com/track/0ZV4E9Ko7pQW278jRJ5o4J",
+        "id": "0ZV4E9Ko7pQW278jRJ5o4J",
+        "name": "Girl I Love You - She Is Danger Remix"
+      }
+    ],
+    "comment": "",
+    "artists": [
+      {
+        "name": "Massive Attack",
+        "link": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
       }
     ]
   }

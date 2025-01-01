@@ -10,16 +10,17 @@ def get_token():
 def get_best_songs(headers=None):
     link = "https://api.spotify.com/v1/playlists/3xkh0VpL5iRLws4P04xmk1"
 
-    result = json.loads(requests.get(link, headers=headers).text)
+    result = json.loads(requests.get(link, headers=headers).text)['tracks']
     songs = [
         {
             "link": song['track']['external_urls']['spotify'],
             "id": song['track']['id'],
             "name": song['track']['name'],
         }
-        for song in result['tracks']['items']
+        for song in result['items']
     ]
-    while 'next' in result:
+
+    while result['next'] is not None:
         result = json.loads(requests.get(result['next'], headers=headers).text)
         songs.extend(
             {
@@ -27,8 +28,9 @@ def get_best_songs(headers=None):
                 "id": song['track']['id'],
                 "name": song['track']['name'],
             }
-            for song in result['tracks']['items']
+            for song in result['items']
         )
+
     return songs
 
 

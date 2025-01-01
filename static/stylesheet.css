@@ -2,6 +2,7 @@
     --kasper-color: lawngreen;
     --veerle-color: yellow;
     --victor-color: cyan;
+    --quint-color: magenta;
 }
 
 * {
@@ -133,6 +134,14 @@ td ul {
 
 .victor img {
     border: 5px solid var(--victor-color);
+}
+
+.quint .text {
+    background-color: var(--quint-color);
+}
+
+.quint img {
+    border: 5px solid var(--quint-color);
 }
 
 .content ul {

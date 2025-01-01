@@ -177,7 +177,7 @@ def create_album(album):
                     _create_content(tag, text, album, doc)
     album_content = indent(doc.getvalue())
 
-    with open(f"albums/{album['name']}.html", "w") as album_file:
+    with open(f"albums/{album['name'].replace(':', '')}.html", "w") as album_file:
         album_file.write(album_content)
 
 
